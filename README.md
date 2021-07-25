@@ -1,2 +1,3 @@
 # vine
-![0DB설계](https://user-images.githubusercontent.com/52027965/120803910-04fadd00-c57f-11eb-94c3-397e0b57e394.png)
+![db](https://user-images.githubusercontent.com/77663506/126892311-54c44efd-c2c0-460f-8d67-3d2f7d2b1529.png)
+
